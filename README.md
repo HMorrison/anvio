@@ -6,7 +6,7 @@ Please see the project page for information:
 
 * [http://merenlab.org/projects/anvio/](http://merenlab.org/projects/anvio/)
 
-Here are some articles you may be interested:
+Here are some articles in which you may be interested:
 
 * [Installing anvi'o](http://merenlab.org/2015/05/01/installation/)
 * [Anvi'o user manual (for the metagenomic workflow)](http://merenlab.org/2015/05/02/anvio-tutorial/)
